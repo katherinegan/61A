@@ -1,2 +1,2 @@
 # 61A
-Kat's 61a stuff
+The Structure and Interpretation of Computer Programs
